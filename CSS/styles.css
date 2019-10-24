@@ -1,13 +1,6 @@
-.important {
-  color: orange;
-  font-weight: bolder;
-}
-.blog {
-  color: green;
-  font-size: 8;
-}
-.emphasis {
-  font-weight: bold;
-  font-style: italic;
-  color: salmon;
+.my-class {
+  border: 2px solid salmon;
+  margin: 12px;
+  padding: 4px;
+  background-color: magenta;
 }
