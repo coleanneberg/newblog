@@ -6,3 +6,8 @@
   color: green;
   font-size: 8;
 }
+.emphasis {
+  font-weight: bold;
+  font-style: italic;
+  color: salmon;
+}
